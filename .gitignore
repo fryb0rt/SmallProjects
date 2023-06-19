@@ -9,4 +9,7 @@
 /Sudoku/x64
 /Sudoku/*.filters
 /Sudoku/*.user
+/BusRoutes/x64
+/BusRoutes/*.filters
+/BusRoutes/*.user
 /.gitignore.bak
