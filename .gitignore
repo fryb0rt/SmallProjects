@@ -6,3 +6,7 @@
 /LockedRooms/x64
 /LockedRooms/*.filters
 /LockedRooms/*.user
+/Sudoku/x64
+/Sudoku/*.filters
+/Sudoku/*.user
+/.gitignore.bak

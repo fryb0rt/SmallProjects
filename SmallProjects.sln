@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MaximumSubArraySum", "Maxim
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LockedRooms", "LockedRooms\LockedRooms.vcxproj", "{FB1C9D9A-B09E-4367-B2E5-40DCA1175EED}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sudoku", "Sudoku\Sudoku.vcxproj", "{2816EE02-1BF0-4169-8751-7FEDEC71555C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{FB1C9D9A-B09E-4367-B2E5-40DCA1175EED}.Release|x64.Build.0 = Release|x64
 		{FB1C9D9A-B09E-4367-B2E5-40DCA1175EED}.Release|x86.ActiveCfg = Release|Win32
 		{FB1C9D9A-B09E-4367-B2E5-40DCA1175EED}.Release|x86.Build.0 = Release|Win32
+		{2816EE02-1BF0-4169-8751-7FEDEC71555C}.Debug|x64.ActiveCfg = Debug|x64
+		{2816EE02-1BF0-4169-8751-7FEDEC71555C}.Debug|x64.Build.0 = Debug|x64
+		{2816EE02-1BF0-4169-8751-7FEDEC71555C}.Debug|x86.ActiveCfg = Debug|Win32
+		{2816EE02-1BF0-4169-8751-7FEDEC71555C}.Debug|x86.Build.0 = Debug|Win32
+		{2816EE02-1BF0-4169-8751-7FEDEC71555C}.Release|x64.ActiveCfg = Release|x64
+		{2816EE02-1BF0-4169-8751-7FEDEC71555C}.Release|x64.Build.0 = Release|x64
+		{2816EE02-1BF0-4169-8751-7FEDEC71555C}.Release|x86.ActiveCfg = Release|Win32
+		{2816EE02-1BF0-4169-8751-7FEDEC71555C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
