@@ -12,4 +12,7 @@
 /BusRoutes/x64
 /BusRoutes/*.filters
 /BusRoutes/*.user
+/ValidatingBinaryTree/x64
+/ValidatingBinaryTree/*.filters
+/ValidatingBinaryTree/*.user
 /.gitignore.bak
