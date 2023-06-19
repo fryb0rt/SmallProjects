@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MaximumSubArraySum", "MaximumSubArraySum\MaximumSubArraySum.vcxproj", "{88EBB014-E541-4EBF-ACAB-F835DE68B844}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LockedRooms", "LockedRooms\LockedRooms.vcxproj", "{FB1C9D9A-B09E-4367-B2E5-40DCA1175EED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{88EBB014-E541-4EBF-ACAB-F835DE68B844}.Release|x64.Build.0 = Release|x64
 		{88EBB014-E541-4EBF-ACAB-F835DE68B844}.Release|x86.ActiveCfg = Release|Win32
 		{88EBB014-E541-4EBF-ACAB-F835DE68B844}.Release|x86.Build.0 = Release|Win32
+		{FB1C9D9A-B09E-4367-B2E5-40DCA1175EED}.Debug|x64.ActiveCfg = Debug|x64
+		{FB1C9D9A-B09E-4367-B2E5-40DCA1175EED}.Debug|x64.Build.0 = Debug|x64
+		{FB1C9D9A-B09E-4367-B2E5-40DCA1175EED}.Debug|x86.ActiveCfg = Debug|Win32
+		{FB1C9D9A-B09E-4367-B2E5-40DCA1175EED}.Debug|x86.Build.0 = Debug|Win32
+		{FB1C9D9A-B09E-4367-B2E5-40DCA1175EED}.Release|x64.ActiveCfg = Release|x64
+		{FB1C9D9A-B09E-4367-B2E5-40DCA1175EED}.Release|x64.Build.0 = Release|x64
+		{FB1C9D9A-B09E-4367-B2E5-40DCA1175EED}.Release|x86.ActiveCfg = Release|Win32
+		{FB1C9D9A-B09E-4367-B2E5-40DCA1175EED}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
