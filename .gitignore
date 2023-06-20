@@ -27,4 +27,7 @@
 /GreedyChildren/x64
 /GreedyChildren/*.filters
 /GreedyChildren/*.user
+/JobsProfit/x64
+/JobsProfit/*.filters
+/JobsProfit/*.user
 /.gitignore.bak
