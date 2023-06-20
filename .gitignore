@@ -21,4 +21,7 @@
 /SmallestInterval/x64
 /SmallestInterval/*.filters
 /SmallestInterval/*.user
+/SumTreeDistances/x64
+/SumTreeDistances/*.filters
+/SumTreeDistances/*.user
 /.gitignore.bak
