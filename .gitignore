@@ -24,4 +24,7 @@
 /SumTreeDistances/x64
 /SumTreeDistances/*.filters
 /SumTreeDistances/*.user
+/GreedyChildren/x64
+/GreedyChildren/*.filters
+/GreedyChildren/*.user
 /.gitignore.bak
