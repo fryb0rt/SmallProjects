@@ -18,4 +18,7 @@
 /MaximumPurchase/x64
 /MaximumPurchase/*.filters
 /MaximumPurchase/*.user
+/SmallestInterval/x64
+/SmallestInterval/*.filters
+/SmallestInterval/*.user
 /.gitignore.bak
