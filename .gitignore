@@ -15,4 +15,7 @@
 /ValidatingBinaryTree/x64
 /ValidatingBinaryTree/*.filters
 /ValidatingBinaryTree/*.user
+/MaximumPurchase/x64
+/MaximumPurchase/*.filters
+/MaximumPurchase/*.user
 /.gitignore.bak

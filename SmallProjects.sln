@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BusRoutes", "BusRoutes\BusR
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ValidatingBinaryTree", "ValidatingBinaryTree\ValidatingBinaryTree.vcxproj", "{09268AB3-80FF-438F-97E6-EDC950BD7073}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MaximumPurchase", "MaximumPurchase\MaximumPurchase.vcxproj", "{B571C40F-E371-4EC0-BF9C-BA38155274BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{09268AB3-80FF-438F-97E6-EDC950BD7073}.Release|x64.Build.0 = Release|x64
 		{09268AB3-80FF-438F-97E6-EDC950BD7073}.Release|x86.ActiveCfg = Release|Win32
 		{09268AB3-80FF-438F-97E6-EDC950BD7073}.Release|x86.Build.0 = Release|Win32
+		{B571C40F-E371-4EC0-BF9C-BA38155274BB}.Debug|x64.ActiveCfg = Debug|x64
+		{B571C40F-E371-4EC0-BF9C-BA38155274BB}.Debug|x64.Build.0 = Debug|x64
+		{B571C40F-E371-4EC0-BF9C-BA38155274BB}.Debug|x86.ActiveCfg = Debug|Win32
+		{B571C40F-E371-4EC0-BF9C-BA38155274BB}.Debug|x86.Build.0 = Debug|Win32
+		{B571C40F-E371-4EC0-BF9C-BA38155274BB}.Release|x64.ActiveCfg = Release|x64
+		{B571C40F-E371-4EC0-BF9C-BA38155274BB}.Release|x64.Build.0 = Release|x64
+		{B571C40F-E371-4EC0-BF9C-BA38155274BB}.Release|x86.ActiveCfg = Release|Win32
+		{B571C40F-E371-4EC0-BF9C-BA38155274BB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
